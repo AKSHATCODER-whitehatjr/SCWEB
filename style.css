@@ -1,0 +1,23 @@
+body{
+text-align: center;
+background: rgb(23,0,255);
+background: linear-gradient(90deg, rgba(23,0,255,1) 0%, rgba(231,0,22,1) 48%, rgba(0,255,3,1) 100%);   
+}
+
+
+#TP{
+height: 300px;
+ width: 400px;     
+}
+.navbar-header{
+background: rgb(23,0,255);
+background: linear-gradient(90deg, rgba(23,0,255,1) 0%, rgba(231,0,22,1) 48%, rgba(0,255,3,1) 100%);;     
+}
+ul{
+background: rgb(23,0,255);
+background: linear-gradient(90deg, rgba(23,0,255,1) 0%, rgba(231,0,22,1) 48%, rgba(0,255,3,1) 100%);;    
+}
+#marqueeStyle{
+color: black;
+font-size:40px;     
+}
